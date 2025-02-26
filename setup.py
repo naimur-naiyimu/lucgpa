@@ -8,5 +8,5 @@ setup(
     author="lu boss",
     author_email="lu@boss.com",
     description="A simple example Python package",
-    url="https://github.com/yourusername/my_package",
+    url="https://github.com/naimur-naiyimu/lucgpa.git",
 )
